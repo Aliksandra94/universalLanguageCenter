@@ -1,5 +1,6 @@
 # universalLanguageCenter
 
 
-To Run tests:
+To Run tests execute the following maven goals:
 mvn clean install
+
